@@ -44,12 +44,5 @@ This is a web application for creating and studying flashcards. It allows users 
 
 ## Screenshots
 
-![Screenshot 1](/Users/lokeshbijarniya/Desktop/Screenshot 2024-05-09 at 9.30.46 AM.png)
-![Screenshot 2](/Users/lokeshbijarniya/Desktop/Screenshot 2024-05-09 at 9.30.54 AM.png)
-
-
-
-
-
-
-# Flashcard_Web_App
+![Screenshot 1](src/assets/Screenshot1.png)
+![Screenshot 2](src/assets/Screenshot2.png)
